@@ -1,7 +1,7 @@
 João Gabriel de Faria Beserra
 ==============================
 
-Hello, my name is João Gabriel. I'm 18 years old, and I'm currently studying to become a developer. I'm pursuing a technical degree in web informatics at the Federal Institute of Science and Technology, with the goal of advancing to higher education. I have a knack for UI/UX and anything related to design. In my free time, I enjoy listening to MPB (Brazilian Popular Music).
+Hello, I'm João Gabriel, I'm web developer technician and undergrad analist student at the Federal Institute of Science and Technology in Brazil. I have a knack for UI/UX and anything related to design. In my free time, I enjoy listening to MPB (Brazilian Popular Music).
 
 * ✉️  You can contact me at [jgabrielfbeserra@gmail.com](mailto:jgabrielfbeserra@gmail.com)
 * 🧠  I'm learning ReactJs, English and Laravel
