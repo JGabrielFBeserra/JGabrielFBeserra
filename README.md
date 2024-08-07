@@ -5,6 +5,7 @@ Hello, I'm João Gabriel, I'm web developer technician and undergrad analist stu
 
 * ✉️  You can contact me at [jgabrielfbeserra@gmail.com](mailto:jgabrielfbeserra@gmail.com)
 * 🧠  I'm learning ReactJs, English and Laravel
+* ▶️  My Youtube channel [JGabrielFBeserra](https://www.youtube.com/@JGabrielFBeserra)
 
 ### Skills
 
