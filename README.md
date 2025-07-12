@@ -6,11 +6,9 @@ Confira meu portfólio abaixo!
 
 ---
 
-## Idiomas
+## Portfólio
 
-- **Português:** Nativo  
-- **Inglês:** Intermediário (leitura e compreensão avançada, conversação em progresso)  
-- **Espanhol:** Intermediário
+👉 [Acesse aqui o meu portfólio](COLE_SEU_LINK_AQUI)
 
 ---
 
@@ -30,9 +28,11 @@ Confira meu portfólio abaixo!
 
 ---
 
-## Portfólio
+## Idiomas
 
-👉 [Acesse aqui o meu portfólio](COLE_SEU_LINK_AQUI)
+- **Português:** Nativo  
+- **Inglês:** Intermediário (leitura e compreensão avançada, conversação em progresso)  
+- **Espanhol:** Intermediário
 
 ---
 
