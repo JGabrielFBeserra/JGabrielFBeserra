@@ -15,12 +15,12 @@ Confira meu portfólio abaixo!
 ## Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/jo%c3%a3o-gabriel-de-faria-beserra-b352a3305/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%c3%a3o-gabriel-de-faria-beserra-b352a3305/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="28" />
     LinkedIn
   </a>
   &nbsp; | &nbsp;
-  <a href="https://wa.me/5512997215547" target="_blank">
+  <a href="https://wa.me/5512997215547" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" alt="WhatsApp" height="28" width="28" />
     WhatsApp
   </a>
