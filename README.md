@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou João Gabriel de Faria Beserra</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistema e Técnico em Informática pela internet, ambos pelo IFSP.\nPossuo experiências na implementação de projetos, metodologias e trabalho em equipe no contexto real.\nConfira meu portifólio</h3>
+<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistema e Técnico em Informática pela internet, ambos pelo IFSP.Possuo experiências na implementação de projetos, metodologias e trabalho em equipe no contexto real.Confira meu portifólio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgabrielfbeserra&label=Profile%20views&color=0e75b6&style=flat" alt="jgabrielfbeserra" /> </p>
 
