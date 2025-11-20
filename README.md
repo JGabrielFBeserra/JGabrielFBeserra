@@ -60,6 +60,5 @@ Confira meu portfólio abaixo!
 ## Estatísticas GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jgabrielfbeserra&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jgabrielfbeserra&show_icons=true&locale=en)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jgabrielfbeserra&)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jgabrielfbeserra&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
