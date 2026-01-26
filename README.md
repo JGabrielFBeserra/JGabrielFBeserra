@@ -1,4 +1,4 @@
-# Olá 👋, sou João Gabriel de Faria Beserra
+# Olá 👋, sou João Gabriel Beserra
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet, ambos pelo IFSP.  
 Tenho experiência na implementação de projetos, metodologias ágeis e trabalho em equipe em contexto real.  
