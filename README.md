@@ -1,15 +1,10 @@
-● <div align="center">      
-
+  <div align="center">                    
   <img src="https://capsule-render.vercel.app/api?type=waving&color=602E9A&height=200&section=header&text=João%20Gabriel%20Beserra&fontSize=40&fontC
-  olor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20ADS%20%40%20IFSP&descAlignY=58&descSize=16" />
-                                                                                                                                                    
+  olor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20ADS%20%40%20IFSP&descAlignY=58&descSize=16" />                                           
   </div>                                                                                                                                            
-                                                                                                                                                  
-  ---                                                                                                                                               
                                                                                                                                                     
   <div align="center">                                                                                                                              
-                  
-    <a href="https://www.linkedin.com/in/jo%c3%a3o-gabriel-de-faria-beserra-b352a3305/" target="_blank">
+    <a href="https://www.linkedin.com/in/jo%c3%a3o-gabriel-de-faria-beserra-b352a3305/" target="_blank">                                            
       <img src="https://img.shields.io/badge/LinkedIn-602E9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://wa.me/5512997215547" target="_blank">
@@ -18,7 +13,6 @@
     <a href="https://jgabrielfbeserra.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-602E9A?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
-
   </div>
 
   ---
