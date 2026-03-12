@@ -93,10 +93,11 @@
   </div>
 
 
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabrielFBeserra&theme=transparent&hide_border=false&ring=602E9A&fire=602E9A&cu
-  rrStreakLabel=602E9A&sideLabels=602E9A&border=602E9A&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
-  </div>
+  <div align="center">                                                                                                                              
+    <img src="https://streak-stats.demolab.com/?user=JGabrielFBeserra&theme=dark&ring=602E9A&fire=602E9A&currStreakLabel=602E9A&sideLabels=602E9A&bo
+  rder=602E9A&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&hide_border=false" />                                                               
+  </div>                                                                                                                                            
+          
 
   ---
 
