@@ -1,69 +1,97 @@
-# Olá 👋, sou João Gabriel Beserra
+● <div align="center">          
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet, ambos pelo IFSP.  
-Tenho experiência na implementação de projetos, metodologias ágeis e trabalho em equipe em contexto real.  
-Confira meu portfólio abaixo!
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=602E9A&height=200&section=header&text=João%20Gabriel%20Beserra&fontSize=40&fontC
+  olor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20ADS%20%40%20IFSP&descAlignY=58&descSize=16" />
+                                                                                                                                                    
+  </div>          
 
----
+  ---
 
-## Portfólio
+  <div align="center">
 
-👉 [Acesse aqui o meu portfólio](https://jgabrielfbeserra.vercel.app)
+    <a href="https://www.linkedin.com/in/jo%c3%a3o-gabriel-de-faria-beserra-b352a3305/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-602E9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://wa.me/5512997215547" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-602E9A?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    </a>
+    <a href="https://jgabrielfbeserra.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfólio-602E9A?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
 
----
+  </div>
 
-## Contato
+  ---
 
-<p>
-  <a href="https://www.linkedin.com/in/jo%c3%a3o-gabriel-de-faria-beserra-b352a3305/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="28" />
-    LinkedIn
-  </a>
-  &nbsp; | &nbsp;
-  <a href="https://wa.me/5512997215547" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" alt="WhatsApp" height="28" width="28" />
-    WhatsApp
-  </a>
-</p>
+  ## Sobre mim
 
----
+  Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática para Internet**, ambos pelo IFSP.
+  Foco em desenvolvimento **backend** com Java e Spring Boot, construindo APIs robustas, seguras e escaláveis.
+  Experiência em projetos reais com metodologias ágeis e trabalho em equipe.
 
-## Idiomas
+  ---
 
-- **Português:** Nativo  
-- **Inglês:** Intermediário (leitura e compreensão avançada, conversação em progresso)  
-- **Espanhol:** Intermediário
+  ## Stack
 
----
+  ### Backend
+  <p>
+    <img src="https://img.shields.io/badge/Java-602E9A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-602E9A?style=for-the-badge&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-602E9A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express-602E9A?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-602E9A?style=for-the-badge&logo=python&logoColor=white"/>
+  </p>
 
-## Idiomas e Ferramentas
+  ### Banco de Dados
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-602E9A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-602E9A?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-602E9A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </p>
 
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  ### DevOps & Cloud
+  <p>
+    <img src="https://img.shields.io/badge/Docker-602E9A?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-602E9A?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-602E9A?style=for-the-badge&logo=git&logoColor=white"/>
+  </p>
 
----
+  ### Frontend & Design
+  <p>
+    <img src="https://img.shields.io/badge/React-602E9A?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-602E9A?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-602E9A?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-602E9A?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-602E9A?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-602E9A?style=for-the-badge&logo=figma&logoColor=white"/>
+  </p>
 
-## Estatísticas GitHub
+  ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=jgabrielfbeserra&show_icons=true&locale=en&layout=compact)
+  ## Idiomas
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=jgabrielfbeserra&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+  🇧🇷 **Português** — Nativo
+  🇺🇸 **Inglês** — Intermediário (leitura avançada, conversação em progresso)
+  🇪🇸 **Espanhol** — Intermediário
 
+  ---
 
+  ## GitHub Stats
 
+  <div align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=jgabrielfbeserra&show_icons=true&theme=transparent&title_color=602E9A
+  &icon_color=602E9A&text_color=ffffff&border_color=602E9A&hide_border=false" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgabrielfbeserra&layout=compact&theme=transparent&title_col
+  or=602E9A&text_color=ffffff&border_color=602E9A" />
+  </div>
 
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=jgabrielfbeserra&theme=transparent&hide_border=false&ring=602E9A&fire=602E9A&currStreakLabel=60
+  2E9A&sideLabels=602E9A&border=602E9A&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+  </div>
 
+  ---
+
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=602E9A&height=100&section=footer"/>
+  </div>
