@@ -1,14 +1,14 @@
-● <div align="center">          
+● <div align="center">      
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=602E9A&height=200&section=header&text=João%20Gabriel%20Beserra&fontSize=40&fontC
   olor=ffffff&fontAlignY=38&desc=Backend%20Developer%20•%20ADS%20%40%20IFSP&descAlignY=58&descSize=16" />
                                                                                                                                                     
-  </div>          
-
-  ---
-
-  <div align="center">
-
+  </div>                                                                                                                                            
+                                                                                                                                                  
+  ---                                                                                                                                               
+                                                                                                                                                    
+  <div align="center">                                                                                                                              
+                  
     <a href="https://www.linkedin.com/in/jo%c3%a3o-gabriel-de-faria-beserra-b352a3305/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-602E9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
@@ -27,6 +27,7 @@
 
   Estudante de **Análise e Desenvolvimento de Sistemas** e **Técnico em Informática para Internet**, ambos pelo IFSP.
   Foco em desenvolvimento **backend** com Java e Spring Boot, construindo APIs robustas, seguras e escaláveis.
+  Também atuo com **Computer Vision e Machine Learning** utilizando Python, YOLO e OpenCV.
   Experiência em projetos reais com metodologias ágeis e trabalho em equipe.
 
   ---
@@ -39,7 +40,13 @@
     <img src="https://img.shields.io/badge/Spring_Boot-602E9A?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-602E9A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-602E9A?style=for-the-badge&logo=express&logoColor=white"/>
+  </p>
+
+  ### Computer Vision & Machine Learning
+  <p>
     <img src="https://img.shields.io/badge/Python-602E9A?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YOLO-602E9A?style=for-the-badge&logo=yolo&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenCV-602E9A?style=for-the-badge&logo=opencv&logoColor=white"/>
   </p>
 
   ### Banco de Dados
@@ -60,6 +67,7 @@
   <p>
     <img src="https://img.shields.io/badge/React-602E9A?style=for-the-badge&logo=react&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-602E9A?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bootstrap-602E9A?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-602E9A?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML5-602E9A?style=for-the-badge&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-602E9A?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -79,15 +87,15 @@
   ## GitHub Stats
 
   <div align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=jgabrielfbeserra&show_icons=true&theme=transparent&title_color=602E9A
-  &icon_color=602E9A&text_color=ffffff&border_color=602E9A&hide_border=false" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jgabrielfbeserra&layout=compact&theme=transparent&title_col
-  or=602E9A&text_color=ffffff&border_color=602E9A" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=JGabrielFBeserra&show_icons=true&theme=transparent&title_color=602E9A
+  &icon_color=602E9A&text_color=ffffff&border_color=602E9A&cache_seconds=86400" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=JGabrielFBeserra&layout=compact&theme=transparent&title_col
+  or=602E9A&text_color=ffffff&border_color=602E9A&cache_seconds=86400" />
   </div>
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com/?user=jgabrielfbeserra&theme=transparent&hide_border=false&ring=602E9A&fire=602E9A&currStreakLabel=60
-  2E9A&sideLabels=602E9A&border=602E9A&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabrielFBeserra&theme=transparent&hide_border=false&ring=602E9A&fire=602E9A&cu
+  rrStreakLabel=602E9A&sideLabels=602E9A&border=602E9A&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" />
   </div>
 
   ---
