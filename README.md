@@ -81,11 +81,17 @@
   ## GitHub Stats
 
   <div align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=JGabrielFBeserra&show_icons=true&theme=transparent&title_color=602E9A
-  &icon_color=602E9A&text_color=ffffff&border_color=602E9A&cache_seconds=86400" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=JGabrielFBeserra&layout=compact&theme=transparent&title_col
-  or=602E9A&text_color=ffffff&border_color=602E9A&cache_seconds=86400" />
+    <img height="160" src="https://readme-stats.clckblog.space/api?username=JGabrielFBeserra&show_icons=true&theme=transparent&title_color=602E9A&ic
+  on_color=602E9A&text_color=ffffff&border_color=602E9A" />
+    <img height="160" src="https://readme-stats.clckblog.space/api/top-langs?username=JGabrielFBeserra&layout=compact&theme=transparent&title_color=
+  602E9A&text_color=ffffff&border_color=602E9A" />
   </div>
+
+  <div align="center">
+    <img src="https://streak-stats.demolab.com/?user=JGabrielFBeserra&theme=dark&hide_border=false&ring=602E9A&fire=602E9A&currStreakLabel=602E9A&si
+  deLabels=602E9A&border=602E9A" />
+  </div>
+
 
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabrielFBeserra&theme=transparent&hide_border=false&ring=602E9A&fire=602E9A&cu
